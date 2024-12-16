@@ -92,7 +92,7 @@ We welcome contributions! If you'd like to improve this project, please follow t
 
 - **👤 Ujjawal Gupta :** [dev.ujjawal.gupta@gmail.com](mailto:dev.ujjawal.gupta@gmail.com)
 
-- **🔗 LinkedIn :** [Ujjawal Gupta](www.linkedin.com/in/ujjawal-gupta-b71333340)
+- **🔗 LinkedIn :** [Ujjawal Gupta](https://www.linkedin.com/in/ujjawal-gupta-b71333340)
   
 - **🧑‍💻 GitHub Profile :** [ https://github.com/Ujjawal-Gupta-Coder ](https://github.com/Ujjawal-Gupta-Coder)
 
