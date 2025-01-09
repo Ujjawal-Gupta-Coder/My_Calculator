@@ -1,8 +1,14 @@
 <div align="center">
+   <a href="https://my-calculator-beige.vercel.app/" target="_blank">
     <img src="./screenshots/Screenshot 1.png" height="500" width="1200" alt="Project Cover Image">
+   </a>
 
-# My Calculator
+# [My Calculator](https://my-calculator-beige.vercel.app/)
+
 </div>
+
+🌟 Experience the full functionality of this project by exploring the [Live Demo](https://my-calculator-beige.vercel.app/). Click the link to see it in action and enjoy!
+
 This React-based calculator performs basic operations like addition, subtraction, multiplication, and division. this application featuring a responsive user interface with a gradient background. The app includes a functional 'AC' button to clear all inputs, ensuring a smooth user experience.
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -91,6 +97,8 @@ We welcome contributions! If you'd like to improve this project, please follow t
 ## <a name="Contact"> 📬 Contact</a>
 
 - **🔗 LinkedIn :** [Ujjawal Gupta](https://www.linkedin.com/in/ujjawal-gupta-dev)
+
+- **🚀 Live Demo :** [Project Link](https://my-calculator-beige.vercel.app/)
   
 - **🧑‍💻 GitHub Profile :** [ https://github.com/Ujjawal-Gupta-Coder ](https://github.com/Ujjawal-Gupta-Coder)
 
